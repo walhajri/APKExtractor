@@ -21,3 +21,6 @@ git clone https://github.com/walhajri/apkExtractor
         example: ./apkExtractor.py <App Name> # download both the APK and it files
         example: ./apkExtractor.py -f <App Name>
 ```
+
+## Contribution 
+Thanks to (Rayan)[https://www.linkedin.com/in/rayan-naytah] for the help
