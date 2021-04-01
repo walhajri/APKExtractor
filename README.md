@@ -23,4 +23,4 @@ git clone https://github.com/walhajri/apkExtractor
 ```
 
 ## Contribution 
-Thanks to (Rayan)[https://www.linkedin.com/in/rayan-naytah] for the help
+Thanks to [Rayan](https://www.linkedin.com/in/rayan-naytah) for the help
