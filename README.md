@@ -1,5 +1,5 @@
 # apkExtractor
-Tool to automate the process of extracting the apk and it files from an Android phone/emulator
+Tool to automate the process of extracting APKs and its files from an Android phone/emulator
 
 ## Instaltion 
 
